@@ -1992,8 +1992,6 @@ The Medicare UI application is a comprehensive healthcare platform focused on co
 
 For questions or issues related to this project, please refer to the README.md file or contact the development team.
 
-**Project Location:** `d:/qq/medicare-ui`  
-**Last Updated:** March 19, 2026
 
 ---
 
